@@ -2,6 +2,7 @@
 ## Usage
 
 ```
-npm install
-npm run dev
+npm install -g yarn
+yarn install
+yarn dev
 ```
